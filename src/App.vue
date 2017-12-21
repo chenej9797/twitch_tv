@@ -175,7 +175,7 @@ html, body {
   width:50%;
   height:1000px;
   font-family:'Press Start 2P';
-  top:30px;
+  top:80px;
   .header {
     position:relative;
     width:100%;
@@ -208,7 +208,8 @@ html, body {
   
   .button-list {
     position:relative;
-    width:100%;
+    width:90%;
+    margin: 0 auto;
     height:80px;
     display:flex;
     align-items:center;
